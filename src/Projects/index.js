@@ -46,6 +46,8 @@ import OA from "./operations/a.png"
 import OB from "./operations/b.png"
 import OC from "./operations/c.png"
 
+import PA from "./portfolio/a.png"
+import PB from "./portfolio/b.png"
 
 function Projects() {
     return (
@@ -175,7 +177,16 @@ function Projects() {
                     </Col>
 
                     <Col lg={6} md={12} xs={12}>
-
+                        <Project
+                            source={"https://github.com/codermarcel/portfolio"}
+                            name="Portfolio"
+                            tags={["React", "GitHub Pages"]}
+                            images={[PA, PB]}
+                        >
+                            <p>
+                                This is the website you are looking at right now! :)
+                            </p>
+                        </Project>
                     </Col>
                 </Row>
 

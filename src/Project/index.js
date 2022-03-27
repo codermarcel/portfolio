@@ -1,6 +1,6 @@
 import React from 'react';
 import './index.css';
-import {Badge, Button, Card, Carousel, Container} from "react-bootstrap";
+import {Badge, Button, Card, Carousel} from "react-bootstrap";
 
 function Project(props) {
     return (

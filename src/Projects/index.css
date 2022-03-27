@@ -1,0 +1,26 @@
+.projects-txt {
+    text-align: center;
+    margin-top: 3em;
+    margin-bottom: 2em;
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: #686ee2;
+}
+.blinkx {
+    font-family: "Lucida Console", "Courier New", monospace;
+    animation: blinkx 1s steps(1) infinite;
+    background: #686ee2;
+}
+
+@keyframes blinkx {
+    50%  {background-color: transparent;}
+}
+
+.projects {
+    margin: 4em 0em;
+}
+
+@media screen and (min-width: 1200px) {
+    .projects {
+        margin: 6em 6em;
+    }
+}

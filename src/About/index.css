@@ -1,0 +1,26 @@
+
+.cnt {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 40px;
+}
+
+.about-txt {
+    font-size: 1.01em;
+    margin-bottom: 2em;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.intro {
+    margin: 1.5em 0 0.8em 0;
+    color: #686ee2;
+}
+
+@keyframes blink {
+    50%  {background-color: transparent;}
+}
+
+.blink {
+    animation: blink 1s steps(1) infinite;
+    background: #686ee2;
+}

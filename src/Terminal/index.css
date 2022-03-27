@@ -1,0 +1,88 @@
+
+
+.terminal-box {
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.terminal-header {
+    height: 28px;
+    background-color: #e4e3e5;
+    border-radius: 10px 10px 0 0;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+/*.header-button {*/
+
+/*}*/
+
+.header-button {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    margin-left: 9px;
+}
+
+.header-button.red {
+    background-color: #f96256;
+    border: 1px solid #f65549;
+}
+.header-button.orange {
+    background-color: #fdbc3d;
+    border: 1px solid #ffb524;
+}
+.header-button.green {
+    background-color: #33c948;
+    border: 1px solid #2dbb41;
+}
+
+.terminal-window {
+    background-color: #5a5d7a;
+    border-radius: 0 0 4px 4px;
+    box-shadow: 0 50px 100px rgb(50 50 93 / 15%), 0 15px 35px rgb(50 50 93 / 20%), 0 5px 15px rgb(0 0 0 / 12%);
+    margin: 0;
+    padding: 1em;
+    border: 0;
+    vertical-align: baseline;
+}
+
+/*.line {*/
+/*  background-color: red;*/
+/*  color: black;*/
+/*}*/
+
+
+.command {
+    padding: 1em 1em 0 1em;
+    /*font-family: Monaco,Consolas,Lucida Console,monospace;*/
+    background-color: #5a5d7a;
+    color: #f7f7f7;
+    /*background-color: green;*/
+    /*color: black;*/
+}
+
+.line {
+    color: #e7d184;
+    padding: 0.3em 1em 1em 1em;
+    /*background-color: green;*/
+    /*color: black;*/
+}
+
+.line a {
+    color: #35feff;
+}
+
+.line a.resume {
+    color: #35feff;
+}
+
+@keyframes blink {
+    50%  {background-color: transparent;}
+}
+
+.cmd-blink {
+    background: hsla(0,0%,97%,.65);
+    animation: blink 1s steps(1) infinite;
+    color: #f7f7f7;
+}

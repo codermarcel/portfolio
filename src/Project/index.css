@@ -1,0 +1,23 @@
+.project {
+    margin-bottom: 3em;
+    line-height: 1.7em;
+}
+
+.project-description {
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.topright {
+    float: right;
+}
+
+.project-body {
+    padding: 4em 4em;
+}
+
+.project-title {
+}
+
+.tag-btn {
+    margin-right: 0.5em;
+}

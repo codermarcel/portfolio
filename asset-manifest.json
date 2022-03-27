@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/protfolio/static/css/main.0440bf17.css",
+    "main.js": "/protfolio/static/js/main.d8296934.js",
+    "static/js/787.1ed0c42c.chunk.js": "/protfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/protfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/12.png": "/protfolio/static/media/12.da87f276f1cccdefa239.png",
+    "static/media/b.png": "/protfolio/static/media/b.7294bf9258d89352af92.png",
+    "static/media/fontawesome-webfont.eot": "/protfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/protfolio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/11.png": "/protfolio/static/media/11.a1d60f314e256663d60d.png",
+    "static/media/13.png": "/protfolio/static/media/13.5b8a885f47cb95371702.png",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/protfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/16.png": "/protfolio/static/media/16.eb5aba6b3ad6e3d88ec5.png",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/protfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/a.png": "/protfolio/static/media/a.8bbc7d67076447fa757a.png",
+    "static/media/c.png": "/protfolio/static/media/c.b607a09d26a92103926e.png",
+    "static/media/25.png": "/protfolio/static/media/25.c1f69ecd1d53c8933d33.png",
+    "static/media/15.png": "/protfolio/static/media/15.1b9b729f42d19d9480ee.png",
+    "static/media/14.png": "/protfolio/static/media/14.43c25348f7ec203b88fc.png",
+    "static/media/21.png": "/protfolio/static/media/21.c35f9148d136df80287d.png",
+    "static/media/29.png": "/protfolio/static/media/29.f813a603c29f644cf1fb.png",
+    "static/media/24.png": "/protfolio/static/media/24.f22347bd725087cd9130.png",
+    "static/media/20.png": "/protfolio/static/media/20.8be3784bb66332109c63.png",
+    "static/media/28.png": "/protfolio/static/media/28.c12dd5e2a2fa1db386f3.png",
+    "static/media/22.png": "/protfolio/static/media/22.f9f6bff7fc5c0ab4d011.png",
+    "static/media/23.png": "/protfolio/static/media/23.adda532adf90d03a7ef3.png",
+    "static/media/26.png": "/protfolio/static/media/26.c83485e1f3fc87df65a6.png",
+    "static/media/30.png": "/protfolio/static/media/30.5f3fa5cb6311623edda2.png",
+    "static/media/19.png": "/protfolio/static/media/19.9726f6dc4d9d3143b9b6.png",
+    "static/media/27.png": "/protfolio/static/media/27.1264076b0a3234ecfd78.png",
+    "static/media/17.png": "/protfolio/static/media/17.92bea07897e8ef4933fa.png",
+    "static/media/18.png": "/protfolio/static/media/18.2df296d0ad0824fbd6ea.png",
+    "index.html": "/protfolio/index.html",
+    "main.0440bf17.css.map": "/protfolio/static/css/main.0440bf17.css.map",
+    "main.d8296934.js.map": "/protfolio/static/js/main.d8296934.js.map",
+    "787.1ed0c42c.chunk.js.map": "/protfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0440bf17.css",
+    "static/js/main.d8296934.js"
+  ]
+}
